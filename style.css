@@ -2,3 +2,40 @@ html {
   height: 100%;
   width: 100%;
 }
+  table{
+    widht: 100%;
+    border-collapse: collapse;
+  }
+   th, td {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+     background-color: mediumslateblue;
+     color: blanchedalmond;
+  }
+
+  td { color:honeydew; 
+  }
+  h1 {
+    color:honeydew;
+    font-family:comic sans ms;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  p {
+    color:honeydew;
+    font-family:comic sans ms;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  li {
+    color:honeydew;
+    font-family:comic sans ms;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  body{ 
+  background-color:#3B3B58;
+  }
