@@ -39,4 +39,8 @@ html {
   body{ 
   background-color:#3B3B58;
   }
-  #muitafomemuita
+  #muitafomemuita {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+  }
